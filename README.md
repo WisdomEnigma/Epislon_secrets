@@ -32,7 +32,7 @@ Many time use different strategies to implement keys security. Most common mista
         $ vault kv put kv/consul/config/ hello=world
         $ vault kv get kv/consul/config/ hello
 
-    More information please vault documentation. However I'm not a contributor of vault or any hashicorp. Perhaps vault will be better solution for keys protection    
+    More information please visit vault documentation. However I'm not a contributor of vault or any hashicorp products. Perhaps vault will be better solution for keys protection and hashicorp products and services are excellent. :smile:   
     
 # Bit Transaction :moneybag: :money_with_wings:
 
